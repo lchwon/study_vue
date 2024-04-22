@@ -1,13 +1,19 @@
 <template>
-	<div>맥북으로 테스트</div>
+	<div>
+
+	</div>
 </template>
 
 <script>
 export default {
-	setup() {
-		return {};
-	},
-};
+	setup () {
+		
+
+		return {}
+	}
+}
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+
+</style>
