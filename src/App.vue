@@ -1,5 +1,5 @@
 <template>
-	<div></div>
+	<div>맥북으로 테스트</div>
 </template>
 
 <script>
