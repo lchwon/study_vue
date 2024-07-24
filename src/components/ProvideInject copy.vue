@@ -1,14 +1,14 @@
 <template>
-	<main>
-		<ProvideInject></ProvideInject>
-	</main>
+	<div class="container py-4">
+		<Child></Child>
+	</div>
 </template>
 
 <script>
-import ProvideInject from "./ProvideInject.vue";
+import Child from "./Child.vue";
 export default {
 	components: {
-		ProvideInject,
+		Child,
 	},
 	setup() {
 		return {};
