@@ -9,11 +9,11 @@
 <script>
 // import TheNav from "./components/TheNav.vue";
 // import TheView from "./components/TheView.vue";
-import test1 from "./lectures/1-test/test.vue";
+//import test1 from "./lectures/1-test/test.vue";
+import test1 from "./lectures/1-test/TheView.vue";
 export default {
 	components: {
 		// TheNav,
-		// TheView,
 		test1,
 	},
 	setup() {
